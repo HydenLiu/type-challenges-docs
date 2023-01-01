@@ -1,14 +1,10 @@
 import { defineConfig } from 'vitepress'
-import nav from './configs/nav'
-import sidebar from './configs/sidebar'
 
 export default defineConfig({
-  title: 'Typescript Challenges Docs',
+  title: '类型体操备忘查询',
   description: '',
   lastUpdated: true,
   cleanUrls: 'without-subfolders',
-
-  // base: process.env.BASE || '/',
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]
   ],
@@ -17,14 +13,8 @@ export default defineConfig({
     headers: {
       level: [0, 0]
     },
-
-    // options for markdown-it-anchor
     anchor: { permalink: false },
-
-    // options for markdown-it-toc
     toc: { includeLevel: [1, 2] },
-
-    // light: #f9fafb, dark: --vp-code-block-bg
     theme: { light: 'github-light', dark: 'github-dark' },
   },
 
@@ -32,13 +22,10 @@ export default defineConfig({
     outlineTitle: '本页目录',
     lastUpdatedText: '上次更新',
     logo: '/logo.svg',
-
-    // nav
-    nav,
-
-    // sidebar
-    sidebar,
-
+    nav: [
+      { text: '类型体操', link: '/typescript-challenges/', activeMatch: '^/typescript-challenges/' },
+      { text: 'TS内置类型', link: '/utility-types/', activeMatch: '^/utility-types/' },
+    ],
     editLink: {
       pattern: 'https://github.com/sunupdong/type-challenges-docs/edit/master/docs/:path',
       text: '在 GitHub 上编辑此页'
@@ -51,6 +38,12 @@ export default defineConfig({
     footer: {
       message: 'Released under the MIT License.',
       copyright: 'Copyright © 2023-present sunupdong'
-    }
+    },
+
+    algolia: {
+      appId: 'A6R91DIA1L',
+      apiKey: '409c7e62ab57644cf0bb64256b0fe522',
+      indexName: 'type-challenges-docs'
+    },
   }
 })
