@@ -7,4 +7,4 @@ yarn-debug.log
 # Local Netlify folder
 .netlify
 
-docs/.vuepress/dist
+docs/.vitepress/dist
