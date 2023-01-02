@@ -4,6 +4,7 @@ export default defineConfig({
   title: '类型体操备忘查询',
   description: '',
   lastUpdated: true,
+  srcDir: 'src',
   cleanUrls: 'without-subfolders',
   head: [
     ['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]

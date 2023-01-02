@@ -88,14 +88,6 @@
     "describe": ""
   },
   {
-    "name": "Hello World",
-    "alias": "hello-world",
-    "number": 13,
-    "type": "warm",
-    "badge": "",
-    "describe": ""
-  },
-  {
     "name": "First",
     "alias": "first",
     "number": 14,

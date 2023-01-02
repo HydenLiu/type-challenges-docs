@@ -87,3 +87,11 @@
   --docsearch-primary-color: var(--vp-c-brand) !important;
 }
 
+.custom-block{
+  font-size: 12px;
+  padding: 8px 8px 2px;
+}
+
+.vp-doc .custom-block p{
+  margin: 4px;
+}

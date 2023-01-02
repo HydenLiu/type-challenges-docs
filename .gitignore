@@ -7,6 +7,5 @@ yarn-debug.log
 # Local Netlify folder
 .netlify
 
-docs/.vitepress/dist
-docs/.vitepress/cache
+dist
 cache
