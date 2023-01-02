@@ -1,0 +1,1178 @@
+[
+  {
+    "name": "Return Type",
+    "alias": "return-type",
+    "number": 2,
+    "type": "medium",
+    "badge": "",
+    "describe": "函数返回值的类型"
+  },
+  {
+    "name": "Omit",
+    "alias": "omit",
+    "number": 3,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Pick",
+    "alias": "pick",
+    "number": 4,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Readonly Keys",
+    "alias": "readonly-keys",
+    "number": 5,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Simple Vue",
+    "alias": "simple-vue",
+    "number": 6,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Readonly",
+    "alias": "readonly",
+    "number": 7,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Readonly 2",
+    "alias": "readonly-2",
+    "number": 8,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Deep Readonly",
+    "alias": "deep-readonly",
+    "number": 9,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tuple To Union",
+    "alias": "tuple-to-union",
+    "number": 10,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tuple To Object",
+    "alias": "tuple-to-object",
+    "number": 11,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Chainable Options",
+    "alias": "chainable-options",
+    "number": 12,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Hello World",
+    "alias": "hello-world",
+    "number": 13,
+    "type": "warm",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "First",
+    "alias": "first",
+    "number": 14,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Last",
+    "alias": "last",
+    "number": 15,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Pop",
+    "alias": "pop",
+    "number": 16,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Currying 1",
+    "alias": "currying-1",
+    "number": 17,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tuple Length",
+    "alias": "tuple-length",
+    "number": 18,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Promise All",
+    "alias": "promise-all",
+    "number": 20,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Exclude",
+    "alias": "exclude",
+    "number": 43,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Union To Intersection",
+    "alias": "union-to-intersection",
+    "number": 55,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Get Required",
+    "alias": "get-required",
+    "number": 57,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Get Optional",
+    "alias": "get-optional",
+    "number": 59,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Type Lookup",
+    "alias": "type-lookup",
+    "number": 62,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Required Keys",
+    "alias": "required-keys",
+    "number": 89,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Optional Keys",
+    "alias": "optional-keys",
+    "number": 90,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Trimleft",
+    "alias": "trimleft",
+    "number": 106,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Trim",
+    "alias": "trim",
+    "number": 108,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Capitalize",
+    "alias": "capitalize",
+    "number": 110,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Capitalizewords",
+    "alias": "capitalizewords",
+    "number": 112,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Camelcase",
+    "alias": "camelcase",
+    "number": 114,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Replace",
+    "alias": "replace",
+    "number": 116,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Replaceall",
+    "alias": "replaceall",
+    "number": 119,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "C Printf Parser",
+    "alias": "c-printf-parser",
+    "number": 147,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Query String Parser",
+    "alias": "query-string-parser",
+    "number": 151,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Awaited",
+    "alias": "awaited",
+    "number": 189,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Append Argument",
+    "alias": "append-argument",
+    "number": 191,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Vue Basic Props",
+    "alias": "vue-basic-props",
+    "number": 213,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Slice",
+    "alias": "slice",
+    "number": 216,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Isany",
+    "alias": "isany",
+    "number": 223,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "If",
+    "alias": "if",
+    "number": 268,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Typed Get",
+    "alias": "typed-get",
+    "number": 270,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Integers Comparator",
+    "alias": "integers-comparator",
+    "number": 274,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Permutation",
+    "alias": "permutation",
+    "number": 296,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Length Of String",
+    "alias": "length-of-string",
+    "number": 298,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "String To Number",
+    "alias": "string-to-number",
+    "number": 300,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tuple Filter",
+    "alias": "tuple-filter",
+    "number": 399,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Flatten",
+    "alias": "flatten",
+    "number": 459,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Currying 2",
+    "alias": "currying-2",
+    "number": 462,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tuple To Enum Object",
+    "alias": "tuple-to-enum-object",
+    "number": 472,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Sum",
+    "alias": "sum",
+    "number": 476,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Multiply",
+    "alias": "multiply",
+    "number": 517,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Append To Object",
+    "alias": "append-to-object",
+    "number": 527,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Absolute",
+    "alias": "absolute",
+    "number": 529,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "String To Union",
+    "alias": "string-to-union",
+    "number": 531,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Concat",
+    "alias": "concat",
+    "number": 533,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Printf",
+    "alias": "printf",
+    "number": 545,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Deep Object To Unique",
+    "alias": "deep-object-to-unique",
+    "number": 553,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Merge",
+    "alias": "merge",
+    "number": 599,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Kebabcase",
+    "alias": "kebabcase",
+    "number": 612,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Diff",
+    "alias": "diff",
+    "number": 645,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Length Of String 2",
+    "alias": "length-of-string-2",
+    "number": 651,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tag",
+    "alias": "tag",
+    "number": 697,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Union To Tuple",
+    "alias": "union-to-tuple",
+    "number": 730,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Inclusive Range",
+    "alias": "inclusive-range",
+    "number": 734,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Sort",
+    "alias": "sort",
+    "number": 741,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "String Join",
+    "alias": "string-join",
+    "number": 847,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Distributeunions",
+    "alias": "distributeunions",
+    "number": 869,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Includes",
+    "alias": "includes",
+    "number": 898,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Assert Array Index",
+    "alias": "assert-array-index",
+    "number": 925,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Anyof",
+    "alias": "anyof",
+    "number": 949,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Deeppick",
+    "alias": "deeppick",
+    "number": 956,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Isnever",
+    "alias": "isnever",
+    "number": 1042,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Isunion",
+    "alias": "isunion",
+    "number": 1097,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Replacekeys",
+    "alias": "replacekeys",
+    "number": 1130,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Pinia",
+    "alias": "pinia",
+    "number": 1290,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Remove Index Signature",
+    "alias": "remove-index-signature",
+    "number": 1367,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Camelize",
+    "alias": "camelize",
+    "number": 1383,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Percentage Parser",
+    "alias": "percentage-parser",
+    "number": 1978,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Drop String",
+    "alias": "drop-string",
+    "number": 2059,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Drop Char",
+    "alias": "drop-char",
+    "number": 2070,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Minusone",
+    "alias": "minusone",
+    "number": 2257,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Pickbytype",
+    "alias": "pickbytype",
+    "number": 2595,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Startswith",
+    "alias": "startswith",
+    "number": 2688,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Endswith",
+    "alias": "endswith",
+    "number": 2693,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Partialbykeys",
+    "alias": "partialbykeys",
+    "number": 2757,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Requiredbykeys",
+    "alias": "requiredbykeys",
+    "number": 2759,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Mutable",
+    "alias": "mutable",
+    "number": 2793,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Split",
+    "alias": "split",
+    "number": 2822,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Classpublickeys",
+    "alias": "classpublickeys",
+    "number": 2828,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Omitbytype",
+    "alias": "omitbytype",
+    "number": 2852,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Isrequiredkey",
+    "alias": "isrequiredkey",
+    "number": 2857,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Objectentries",
+    "alias": "objectentries",
+    "number": 2946,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Objectfromentries",
+    "alias": "objectfromentries",
+    "number": 2949,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Push",
+    "alias": "push",
+    "number": 3057,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Unshift",
+    "alias": "unshift",
+    "number": 3060,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Shift",
+    "alias": "shift",
+    "number": 3062,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tuple To Nested Object",
+    "alias": "tuple-to-nested-object",
+    "number": 3188,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Reverse",
+    "alias": "reverse",
+    "number": 3192,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Flip Arguments",
+    "alias": "flip-arguments",
+    "number": 3196,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Flattendepth",
+    "alias": "flattendepth",
+    "number": 3243,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Parameters",
+    "alias": "parameters",
+    "number": 3312,
+    "type": "easy",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Bem Style String",
+    "alias": "bem-style-string",
+    "number": 3326,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Inordertraversal",
+    "alias": "inordertraversal",
+    "number": 3376,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Ispalindrome",
+    "alias": "ispalindrome",
+    "number": 4037,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Flip",
+    "alias": "flip",
+    "number": 4179,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Fibonacci Sequence",
+    "alias": "fibonacci-sequence",
+    "number": 4182,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Nomiwase",
+    "alias": "nomiwase",
+    "number": 4260,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Greater Than",
+    "alias": "greater-than",
+    "number": 4425,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Zip",
+    "alias": "zip",
+    "number": 4471,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Istuple",
+    "alias": "istuple",
+    "number": 4484,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Chunk",
+    "alias": "chunk",
+    "number": 4499,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Fill",
+    "alias": "fill",
+    "number": 4518,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Trim Right",
+    "alias": "trim-right",
+    "number": 4803,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Without",
+    "alias": "without",
+    "number": 5117,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Trunc",
+    "alias": "trunc",
+    "number": 5140,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Indexof",
+    "alias": "indexof",
+    "number": 5153,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Mutable Keys",
+    "alias": "mutable-keys",
+    "number": 5181,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Join",
+    "alias": "join",
+    "number": 5310,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Lastindexof",
+    "alias": "lastindexof",
+    "number": 5317,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Unique",
+    "alias": "unique",
+    "number": 5360,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Intersection",
+    "alias": "intersection",
+    "number": 5423,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Maptypes",
+    "alias": "maptypes",
+    "number": 5821,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Binary To Decimal",
+    "alias": "binary-to-decimal",
+    "number": 6141,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Json Parser",
+    "alias": "json-parser",
+    "number": 6228,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Object Key Paths",
+    "alias": "object-key-paths",
+    "number": 7258,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Construct Tuple",
+    "alias": "construct-tuple",
+    "number": 7544,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Subtract",
+    "alias": "subtract",
+    "number": 7561,
+    "type": "extreme",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Number Range",
+    "alias": "number-range",
+    "number": 8640,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Combination",
+    "alias": "combination",
+    "number": 8767,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Two Sum",
+    "alias": "two-sum",
+    "number": 8804,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Subsequence",
+    "alias": "subsequence",
+    "number": 8987,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Validdate",
+    "alias": "validdate",
+    "number": 9155,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Assign",
+    "alias": "assign",
+    "number": 9160,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Firstuniquecharindex",
+    "alias": "firstuniquecharindex",
+    "number": 9286,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Maximum",
+    "alias": "maximum",
+    "number": 9384,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Capitalize Nest Object Keys",
+    "alias": "capitalize-nest-object-keys",
+    "number": 9775,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Get Middle Element",
+    "alias": "get-middle-element",
+    "number": 9896,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Integer",
+    "alias": "integer",
+    "number": 10969,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Replace Union",
+    "alias": "replace-union",
+    "number": 13580,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Fizzbuzz",
+    "alias": "fizzbuzz",
+    "number": 14080,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Run Length Encoding",
+    "alias": "run-length-encoding",
+    "number": 14188,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Tree Path Array",
+    "alias": "tree-path-array",
+    "number": 15260,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "To Primitive",
+    "alias": "to-primitive",
+    "number": 16259,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Deepmutable",
+    "alias": "deepmutable",
+    "number": 17973,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "All",
+    "alias": "all",
+    "number": 18142,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Filter",
+    "alias": "filter",
+    "number": 18220,
+    "type": "medium",
+    "badge": "",
+    "describe": ""
+  },
+  {
+    "name": "Snakecase",
+    "alias": "snakecase",
+    "number": 19458,
+    "type": "hard",
+    "badge": "",
+    "describe": ""
+  }
+]
