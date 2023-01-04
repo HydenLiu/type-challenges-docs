@@ -5,7 +5,7 @@
     "number": 2,
     "type": "medium",
     "badge": "",
-    "describe": "函数返回值的类型"
+    "describe": "ReturnType<T>: T函数返回值的类型"
   },
   {
     "name": "Omit",
@@ -13,7 +13,7 @@
     "number": 3,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Omit<T, K>: 创建一个省略 K 中字段的 T 对象类型"
   },
   {
     "name": "Pick",
@@ -21,7 +21,7 @@
     "number": 4,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Pick<T, k>: 创建一个从类型 T 中选择出属性 K的对象类型"
   },
   {
     "name": "Readonly Keys",
@@ -29,7 +29,7 @@
     "number": 5,
     "type": "extreme",
     "badge": "",
-    "describe": ""
+    "describe": "GetReadonlyKeys<T>: 把对象 T 所有只读属性的键 组成一个联合类型"
   },
   {
     "name": "Simple Vue",
@@ -45,7 +45,7 @@
     "number": 7,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Readonly<T>: 将 T 所有属性变成只读的"
   },
   {
     "name": "Readonly 2",
@@ -53,7 +53,7 @@
     "number": 8,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "MyReadonly2<T, K>: 将 T 中对应的 K 属性改为只读"
   },
   {
     "name": "Deep Readonly",
@@ -61,7 +61,7 @@
     "number": 9,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "DeepReadonly<T>: 将对象T的每个参数及其子对象都设为只读"
   },
   {
     "name": "Tuple To Union",
@@ -69,7 +69,7 @@
     "number": 10,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "TupleToUnion<T>: 将元组T的每一项组成一个联合类型"
   },
   {
     "name": "Tuple To Object",
@@ -77,7 +77,7 @@
     "number": 11,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "TupleToObject<T>: 将元组T的类型转为对象类型, key和value都对应元组的一项"
   },
   {
     "name": "Chainable Options",
@@ -85,7 +85,7 @@
     "number": 12,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "可串联构造器, option(key, value)转为{[key]: value}, 会有多层的情况"
   },
   {
     "name": "First",
