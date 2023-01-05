@@ -93,7 +93,7 @@
     "number": 14,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "First<T>: 获取T里面第一个元素的类型"
   },
   {
     "name": "Last",
@@ -101,7 +101,7 @@
     "number": 15,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Last<T>: 获取最后一个元素的类型"
   },
   {
     "name": "Pop",
@@ -109,7 +109,7 @@
     "number": 16,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Pop<T>: 返回一个去掉数组T的最后一个元素的数组"
   },
   {
     "name": "Currying 1",
@@ -125,7 +125,7 @@
     "number": 18,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Length<T>: 返回只读元组T的长度"
   },
   {
     "name": "Promise All",
@@ -133,7 +133,7 @@
     "number": 20,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "获取多个promise的返回值, 并组成一个数组"
   },
   {
     "name": "Exclude",
@@ -141,7 +141,7 @@
     "number": 43,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Exclude <T, U>: 联合类型T中排除U的类型成员, 然后构造一个新的类型"
   },
   {
     "name": "Union To Intersection",
@@ -173,7 +173,7 @@
     "number": 62,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "根据某个属性在联合类型中查找类型，如：LookUp<Dog | Cat, 'dog'>获得Dog"
   },
   {
     "name": "Required Keys",
@@ -197,7 +197,7 @@
     "number": 106,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "TrimLeft<T>: 去除T开头的空白字符串"
   },
   {
     "name": "Trim",
@@ -205,7 +205,7 @@
     "number": 108,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Trim<T>: 去除T两边的空白字符串"
   },
   {
     "name": "Capitalize",
@@ -213,7 +213,7 @@
     "number": 110,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Capitalize<T>: 首字母变为大写"
   },
   {
     "name": "Capitalizewords",
@@ -237,7 +237,7 @@
     "number": 116,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Replace<S, From, To>: 将字符串 S 中的第一个子字符串 From 替换为 To"
   },
   {
     "name": "Replaceall",
@@ -245,7 +245,7 @@
     "number": 119,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "ReplaceAll<S, From, To>: 将字符串 S 中的所有子字符串 From 替换为 To"
   },
   {
     "name": "C Printf Parser",
@@ -269,7 +269,7 @@
     "number": 189,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Promise<T>: Promise里返回T的类型"
   },
   {
     "name": "Append Argument",
@@ -277,7 +277,7 @@
     "number": 191,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "AppendArgument<Fn, A>: 返回一个拥有 Fn 的所有参数并在末尾追加类型 A 参数的函数类型"
   },
   {
     "name": "Vue Basic Props",
@@ -309,7 +309,7 @@
     "number": 268,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "If<B, T, F>: B为true则返回T, false返回F"
   },
   {
     "name": "Typed Get",

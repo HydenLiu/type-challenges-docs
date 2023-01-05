@@ -21,7 +21,7 @@ const sortIndex = ref(0)
     </div>
     <div v-for="item in questions" class="flex items-center mb-10px">
       <span>{{ item.number }}. </span>
-      <h3 class="text-14px mt-0">
+      <h3 class="text-14px mt-0 flex-none">
         <a href="" target="_blank" class="q-a">
           {{ item.name }}
         </a>
