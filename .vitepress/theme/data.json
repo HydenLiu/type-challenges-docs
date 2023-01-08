@@ -629,7 +629,7 @@
     "number": 2070,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "DropChar<S, C>: 从字符串S中剔除所有的字符C"
   },
   {
     "name": "Minusone",
@@ -637,7 +637,7 @@
     "number": 2257,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "MinusOne<T>: 返回数字类型T减去1的类型"
   },
   {
     "name": "Pickbytype",
@@ -645,7 +645,7 @@
     "number": 2595,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "PickByType<T, U>: 在T中找出属性值和U类型一样的"
   },
   {
     "name": "Startswith",
@@ -653,7 +653,7 @@
     "number": 2688,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "StartsWith<T, U>: T的开头是否是U,返回true或者false"
   },
   {
     "name": "Endswith",
@@ -661,7 +661,7 @@
     "number": 2693,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Endswith<T, U>: T的结尾是否是U,返回true或者false"
   },
   {
     "name": "Partialbykeys",
@@ -677,7 +677,7 @@
     "number": 2759,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "PartialByKeys<T, K> 将对象类型T里面键和K相同的改为可选项"
   },
   {
     "name": "Mutable",
