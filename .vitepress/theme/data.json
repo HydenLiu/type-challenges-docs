@@ -669,7 +669,7 @@
     "number": 2757,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "PartialByKeys<T, K> 将对象类型T里面键和K相同的改为可选项"
   },
   {
     "name": "Requiredbykeys",
@@ -677,7 +677,7 @@
     "number": 2759,
     "type": "medium",
     "badge": "",
-    "describe": "PartialByKeys<T, K> 将对象类型T里面键和K相同的改为可选项"
+    "describe": "RequiredByKeys<T, K> 将对象类型T里面键和K相同的改为必选项"
   },
   {
     "name": "Mutable",
