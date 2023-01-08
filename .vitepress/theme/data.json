@@ -613,7 +613,7 @@
     "number": 1978,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "PercentageParser<T>, 返回[正负号, 数字, 单位]格式的类型, 没有则返回空字符串"
   },
   {
     "name": "Drop String",
