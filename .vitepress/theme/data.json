@@ -685,7 +685,7 @@
     "number": 2793,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": " Mutable<T>: 将T中的每一项只读都去掉, 变成可写"
   },
   {
     "name": "Split",
@@ -709,7 +709,7 @@
     "number": 2852,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "OmitByType<T, U>: 在T中找出属性值和U类型不一样的类型"
   },
   {
     "name": "Isrequiredkey",
@@ -725,7 +725,7 @@
     "number": 2946,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "ObjectEntries<T>: 实现像js的Object.entries一样的类型"
   },
   {
     "name": "Objectfromentries",
@@ -757,7 +757,7 @@
     "number": 3062,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Shift<T>: 实现Array.shift一样类型的"
   },
   {
     "name": "Tuple To Nested Object",
@@ -765,7 +765,7 @@
     "number": 3188,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "TupleToNestedObject<T, U>: 给出一个只包含字符串类型的元组类型T,和一个类型U,递归地建立一个对象。"
   },
   {
     "name": "Reverse",
@@ -773,7 +773,7 @@
     "number": 3192,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Reverse<T>: 实现类型版本的数组反转 Array.reverse"
   },
   {
     "name": "Flip Arguments",
@@ -781,7 +781,7 @@
     "number": 3196,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "FlipArguments<T>: 类型需要函数类型T,并返回一个新的函数类型,它的返回类型与T相同,但参数相反"
   },
   {
     "name": "Flattendepth",
