@@ -789,7 +789,7 @@
     "number": 3243,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "FlattenDepth<T, S>: 递归扁平化数组T, 最多可扁平化深度次数为S, 默认1次。"
   },
   {
     "name": "Parameters",
@@ -797,7 +797,7 @@
     "number": 3312,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Parameters<T>: 获取函数T的参数类型"
   },
   {
     "name": "Bem Style String",
