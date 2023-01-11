@@ -805,7 +805,7 @@
     "number": 3326,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "BEM<B, E, M>: 生成字符串, B是一个字符串字面,E(__)和M(--)是字符串数组"
   },
   {
     "name": "Inordertraversal",
@@ -813,7 +813,7 @@
     "number": 3376,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "InorderTraversal<T>: 实现二叉树中序遍历的类型版本"
   },
   {
     "name": "Ispalindrome",
