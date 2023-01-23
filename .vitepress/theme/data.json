@@ -829,7 +829,7 @@
     "number": 4179,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Flip<T>: 将对象类型T的键和值进行调换"
   },
   {
     "name": "Fibonacci Sequence",
@@ -837,7 +837,7 @@
     "number": 4182,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Fibonacci<T>: 斐波那契序列, 返回第T个数字"
   },
   {
     "name": "Nomiwase",
@@ -845,7 +845,7 @@
     "number": 4260,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "AllCombinations<S>: 返回 S 中的字符的所有字符串排列组合。"
   },
   {
     "name": "Greater Than",
@@ -853,7 +853,7 @@
     "number": 4425,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "GreaterThan<T, U>: T是否大于U, 返回boolean值"
   },
   {
     "name": "Zip",
@@ -861,7 +861,7 @@
     "number": 4471,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Zip<[1, 2], [true, false]>: 导出[[1, true], [2, false]]"
   },
   {
     "name": "Istuple",
@@ -869,7 +869,7 @@
     "number": 4484,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "IsTuple<T>: 判断是否是元组，返回boolean值"
   },
   {
     "name": "Chunk",
@@ -877,7 +877,7 @@
     "number": 4499,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Chunk<T, U>: 实现lodash里面的Chunk方法"
   },
   {
     "name": "Fill",
