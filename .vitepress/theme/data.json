@@ -533,7 +533,7 @@
     "number": 898,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Includes<T, U>: 实现Array.includes方法, U 是否在 T 内"
   },
   {
     "name": "Assert Array Index",
@@ -885,7 +885,7 @@
     "number": 4518,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Fill<T, N, Start?, End?>: 实现js Array的fill方法"
   },
   {
     "name": "Trim Right",
@@ -893,7 +893,7 @@
     "number": 4803,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "TrimRight<T>: 删除T结尾的空白字符串"
   },
   {
     "name": "Without",
