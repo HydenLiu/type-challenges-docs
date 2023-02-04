@@ -869,7 +869,7 @@
     "number": 4484,
     "type": "medium",
     "badge": "",
-    "describe": "IsTuple<T>: 判断是否是元组，返回boolean值"
+    "describe": "IsTuple<T>: 判断是否是元组, 返回boolean值"
   },
   {
     "name": "Chunk",
@@ -901,7 +901,7 @@
     "number": 5117,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Without<T, U>: 实现Lodash.without, T 中去掉 U 中的元素"
   },
   {
     "name": "Trunc",
@@ -909,7 +909,7 @@
     "number": 5140,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Trunc<T>: 实现Math.trunc, 去掉小数部分, 获得整数部分"
   },
   {
     "name": "Indexof",
@@ -917,7 +917,7 @@
     "number": 5153,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "IndexOf<T, U>: 实现Array.indexOf, 找出 U 在 T 里面第一次出现的下标"
   },
   {
     "name": "Mutable Keys",
@@ -933,7 +933,7 @@
     "number": 5310,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Join<T, U>: 实现Array.join, 将数组T转为字符串,用U分割"
   },
   {
     "name": "Lastindexof",
