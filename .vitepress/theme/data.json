@@ -941,7 +941,7 @@
     "number": 5317,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "LastIndexOf<T, U>: 实现Array.lastIndexOf, 找出 U 在 T 里面最后一次出现的下标"
   },
   {
     "name": "Unique",
@@ -949,7 +949,7 @@
     "number": 5360,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Unique<T>: 数组类型 T 去重"
   },
   {
     "name": "Intersection",
