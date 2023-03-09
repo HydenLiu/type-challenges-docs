@@ -997,7 +997,7 @@
     "number": 7544,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "ConstructTuple<T>: 构造长度为 T 的元组"
   },
   {
     "name": "Subtract",
@@ -1013,7 +1013,7 @@
     "number": 8640,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "NumberRange<L, H>: 返回数字 L 到 H 之前的联合类型"
   },
   {
     "name": "Combination",
