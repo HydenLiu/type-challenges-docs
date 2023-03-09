@@ -965,7 +965,7 @@
     "number": 5821,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "MapTypes<T, R>: 对象 T 中的类型转换为类型 R 结构定义的不同类型"
   },
   {
     "name": "Binary To Decimal",
