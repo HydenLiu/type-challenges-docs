@@ -26,7 +26,7 @@ export default defineConfig({
     nav: [
       { text: '类型体操', link: '/typescript-challenges/', activeMatch: '^/typescript-challenges/' },
       { text: 'TS内置类型', link: '/utility-types/', activeMatch: '^/utility-types/' },
-      { text: 'TS宿主环境类型', link: '/utility-types/', activeMatch: '^/ts-lib/' },
+      { text: 'TS宿主环境类型', link: '/ts-lib/', activeMatch: '^/ts-lib/' },
     ],
     editLink: {
       pattern: 'https://github.com/sunupdong/type-challenges-docs/edit/master/docs/:path',
