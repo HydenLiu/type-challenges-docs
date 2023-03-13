@@ -333,7 +333,7 @@
     "number": 296,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Permutation<T>: 实现联合类型 T 的全排列，将联合类型转换成所有可能的全排列数组的联合类型。"
   },
   {
     "name": "Length Of String",
@@ -341,7 +341,7 @@
     "number": 298,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "LengthOfString<T>: 计算字符串T的长度，类似于 String#length"
   },
   {
     "name": "String To Number",
@@ -365,7 +365,7 @@
     "number": 459,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Flatten<T>: 扁平化 T 这个多维数组"
   },
   {
     "name": "Currying 2",
@@ -405,7 +405,7 @@
     "number": 527,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "AppendToObject<T, U, V>: 给对象T添加一个属性, 属性名为U, 属性值为V"
   },
   {
     "name": "Absolute",
@@ -413,7 +413,7 @@
     "number": 529,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Absolute<T>: 返回一个T的绝对值的字符串类型"
   },
   {
     "name": "String To Union",
@@ -421,7 +421,7 @@
     "number": 531,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "StringToUnion<T>: 将字符串 T 的每个字符转换成联合类型"
   },
   {
     "name": "Concat",
@@ -429,7 +429,7 @@
     "number": 533,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Concat<T, U>: 将两个数组类型 T 和 U 连接成一个数组类型"
   },
   {
     "name": "Printf",
@@ -453,7 +453,7 @@
     "number": 599,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Merge<T, U>: 将两个类型合并成一个类型，第二个类型的键会覆盖第一个类型的键"
   },
   {
     "name": "Kebabcase",
@@ -461,7 +461,7 @@
     "number": 612,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "KebabCase<T>: 将字符串T转换成中划线连接的小写字符串"
   },
   {
     "name": "Diff",
@@ -469,7 +469,7 @@
     "number": 645,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Diff<T, U>: 获取两个接口类型中的差值属性"
   },
   {
     "name": "Length Of String 2",
@@ -549,7 +549,7 @@
     "number": 949,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "AnyOf<T>: 数组 T 中任意一个值为真，则返回 true，否则返回 false"
   },
   {
     "name": "Deeppick",
@@ -565,7 +565,7 @@
     "number": 1042,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "IsNever<T>: 判断 T 是否为 never 类型"
   },
   {
     "name": "Isunion",
@@ -573,7 +573,7 @@
     "number": 1097,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "IsUnion<T>: 判断 T 是否为联合类型"
   },
   {
     "name": "Replacekeys",
@@ -581,7 +581,7 @@
     "number": 1130,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "ReplaceKeys<T, U, Y>: 将 T 中U的键替换成Y"
   },
   {
     "name": "Pinia",
@@ -741,7 +741,7 @@
     "number": 3057,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "Push<T, U>: 实现Array.push一样的类型, 将U添加到T的末尾"
   },
   {
     "name": "Unshift",
@@ -749,7 +749,7 @@
     "number": 3060,
     "type": "easy",
     "badge": "",
-    "describe": ""
+    "describe": "unshift<T, U>: 实现Array.unshift一样的类型, 将U添加到T的开头"
   },
   {
     "name": "Shift",
@@ -757,7 +757,7 @@
     "number": 3062,
     "type": "medium",
     "badge": "",
-    "describe": "Shift<T>: 实现Array.shift一样类型的"
+    "describe": "Shift<T>: 实现Array.shift一样类型的, 将T的第一个元素去掉"
   },
   {
     "name": "Tuple To Nested Object",
