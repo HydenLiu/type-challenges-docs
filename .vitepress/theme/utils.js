@@ -42,3 +42,8 @@ export function renderCommitMessage(msg) {
   return renderMarkdown(msg)
     .replace(/\#([0-9]+)/g, '<a href=\'https://github.com/sunupdong/type-challenges-docs/issues/$1\'>#$1</a>')
 }
+
+// 设置5位数的字符串
+export function padNumber(number) {
+  return String(number).padStart(5, '0')
+}

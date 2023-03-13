@@ -1,6 +1,8 @@
 <script setup lang='ts'>
 import { onMounted, ref } from 'vue';
 import questions from '../data.json'
+import { padNumber } from '../utils'
+
 const colorMap = {
   easy: '7aad0c',
   medium: 'd9901a',
@@ -13,16 +15,16 @@ const sortIndex = ref(0)
 
 <template>
   <section class="text-12px">
-    <div class="flex items-center gap-8px mb-16px font-medium">
+    <!-- <div class="flex items-center gap-8px mb-16px font-medium">
       排序: 
       <div v-for="(item, index) in sortQuestions">
         <button :class="`q-button ${sortIndex === index && 'active'}`" >{{ item }}</button>
       </div>
-    </div>
+    </div> -->
     <div v-for="item in questions" class="flex items-center mb-10px">
       <span>{{ item.number }}. </span>
       <h3 class="text-14px mt-0 flex-none">
-        <a href="" target="_blank" class="q-a">
+        <a :href="`../typeChallenges/${padNumber(item.number)}-${item.type}-${item.alias}.ts`" target="_blank" class="q-a">
           {{ item.name }}
         </a>
       </h3>
@@ -82,7 +84,7 @@ const sortIndex = ref(0)
 
 .q-button.active {
   background-color: #3eaf7c0d;
-  color: rgb(62, 175, 124);
+  color: #B56AF0;
   font-weight: 500;
 }
 </style>

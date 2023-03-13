@@ -11,6 +11,8 @@ import questions from '../../.vitepress/theme/data.json'
 TS 类型体操官网 [点击这里](https://github.com/type-challenges/type-challenges)，感谢作者[Anthony Fu](https://github.com/antfu)。
 :::
 
+> WIP: 本文档正在完善中，未填写的说明我还没有做那道题
+
 <Types />
 <!-- 测试 -->
 <!-- <div v-for="item in questions" class="flex items-center mb-10px">

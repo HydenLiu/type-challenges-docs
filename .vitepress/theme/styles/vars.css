@@ -4,12 +4,16 @@
 
  :root {
   --vp-c-accent: #35495e;
-  --vp-c-brand: #44bd87;
+  --vp-c-brand: #B56AF0;
   --vp-c-text-code: #5d6f5d;
   --vp-code-block-bg: rgba(125,125,125,0.04);
   --vp-c-disabled-bg: rgba(125,125,125,0.2);
   /* fix contrast on gray cards: used by --vp-c-text-2 */
   --vp-c-text-light-2: rgba(56 56 56 / 70%);
+  --vp-c-brand-light: #d29efc;
+  --vp-custom-block-tip-border: #d29efc;
+  --vp-custom-block-tip-bg: #d29efc30;
+  --vp-c-brand-dark: #a43ff1;
 }
 
 .dark {
@@ -55,14 +59,10 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #35495e -80%,
-    #41b883
+    #97FFFF -80%,
+    #B56AF0
   );
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #41b88380 30%,
-    #35495e80
-  );
+  --vp-home-hero-image-background-image: linear-gradient( 135deg, #d29efc82 30%, #4C83FF00);
   --vp-home-hero-image-filter: blur(30px);
 }
 
@@ -94,4 +94,8 @@
 
 .vp-doc .custom-block p{
   margin: 4px;
+}
+
+.custom-block.tip{
+  color: #B56AF0;
 }
