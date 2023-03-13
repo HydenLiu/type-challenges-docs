@@ -1021,7 +1021,7 @@
     "number": 8767,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Combination<T>: 给定一个字符串数组 T ，返回它的进行排列组合"
   },
   {
     "name": "Two Sum",
@@ -1037,7 +1037,7 @@
     "number": 8987,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Subsequence<T>: 给定一个数组 T，返回所有可能的子序列"
   },
   {
     "name": "Validdate",
@@ -1061,7 +1061,7 @@
     "number": 9286,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "FirstUniqueCharIndex<T>: 给定一个字符串 T，找到其中的第一个非重复字符并返回它的索引。如果不存在，返回-1。"
   },
   {
     "name": "Maximum",
