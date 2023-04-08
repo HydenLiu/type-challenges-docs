@@ -40,7 +40,7 @@ export function renderMarkdown(markdownText = '') {
 
 export function renderCommitMessage(msg) {
   return renderMarkdown(msg)
-    .replace(/\#([0-9]+)/g, '<a href=\'https://github.com/sunupdong/type-challenges-docs/issues/$1\'>#$1</a>')
+    .replace(/\#([0-9]+)/g, '<a href=\'https://github.com/HydenLiu/type-challenges-docs/issues/$1\'>#$1</a>')
 }
 
 // 设置5位数的字符串

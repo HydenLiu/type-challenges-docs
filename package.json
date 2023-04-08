@@ -8,7 +8,7 @@
     "preview": "vitepress preview"
   },
   "keywords": [],
-  "author": "sunupdong",
+  "author": "Hyden Liu",
   "license": "MIT",
   "pnpm": {
     "peerDependencyRules": {

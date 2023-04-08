@@ -24,7 +24,7 @@ const sortIndex = ref(0)
     <div v-for="item in questions" class="flex items-center mb-10px">
       <span>{{ item.number }}. </span>
       <h3 class="text-14px mt-0 flex-none">
-        <a :href="`https://github.com/sunupdong/type-challenges-docs/blob/main/.vitepress/theme/typeChallenges/${padNumber(item.number)}-${item.type}-${item.alias}.ts`" target="_blank" class="q-a">
+        <a :href="`https://github.com/HydenLiu/type-challenges-docs/blob/main/.vitepress/theme/typeChallenges/${padNumber(item.number)}-${item.type}-${item.alias}.ts`" target="_blank" class="q-a">
           {{ item.name }}
         </a>
       </h3>

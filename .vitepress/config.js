@@ -29,17 +29,17 @@ export default defineConfig({
       { text: 'TS宿主环境类型', link: '/ts-lib/', activeMatch: '^/ts-lib/' },
     ],
     editLink: {
-      pattern: 'https://github.com/sunupdong/type-challenges-docs/edit/master/docs/:path',
+      pattern: 'https://github.com/HydenLiu/type-challenges-docs/edit/master/docs/:path',
       text: '在 GitHub 上编辑此页'
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/sunupdong/type-challenges-docs' }
+      { icon: 'github', link: 'https://github.com/HydenLiu/type-challenges-docs' }
     ],
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2023-present sunupdong'
+      copyright: 'Copyright © 2023-present HydenLiu'
     },
 
     algolia: {
