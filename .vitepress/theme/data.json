@@ -1040,6 +1040,14 @@
     "describe": "Subsequence<T>: 给定一个数组 T，返回所有可能的子序列"
   },
   {
+    "name": "CheckRepeatedChars",
+    "alias": "CheckRepeatedChars",
+    "number": 9143,
+    "type": "medium",
+    "badge": "",
+    "describe": "CheckRepeatedChars<T>: 判断一个 string 类型中是否有相同的字符, 返回 true 或 false"
+  },
+  {
     "name": "Validdate",
     "alias": "validdate",
     "number": 9155,
