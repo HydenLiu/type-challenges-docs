@@ -1096,6 +1096,14 @@
     "describe": "GetMiddleElement<T>: 给定一个数组类型，返回他的中间类型"
   },
   {
+    "name": "Appear only once",
+    "alias": "zhao-chu-mu-biao-shu-zu-zhong-zhi-chu-xian-guo-yi-ci-de-yuan-su",
+    "number": 9898,
+    "type": "medium",
+    "badge": "",
+    "describe": "FindEles<T>: 找出目标数组中只出现过一次的元素"
+  },
+  {
     "name": "Integer",
     "alias": "integer",
     "number": 10969,
