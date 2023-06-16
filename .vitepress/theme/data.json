@@ -1093,7 +1093,7 @@
     "number": 9896,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "GetMiddleElement<T>: 给定一个数组类型，返回他的中间类型"
   },
   {
     "name": "Integer",
