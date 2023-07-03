@@ -1165,7 +1165,7 @@
     "number": 18142,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "All<T>: 元组 T 里面每个类型是不是一样的"
   },
   {
     "name": "Filter",
