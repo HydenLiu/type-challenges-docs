@@ -1157,7 +1157,7 @@
     "number": 17973,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "DeepMutable<T>: 递归类型T, 将类型T的子属性改为可变（去掉readonly）类型"
   },
   {
     "name": "All",
