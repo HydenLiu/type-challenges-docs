@@ -1173,7 +1173,7 @@
     "number": 18220,
     "type": "medium",
     "badge": "",
-    "describe": ""
+    "describe": "Filter<T, P>: 类似于JS的Array里的filter方法"
   },
   {
     "name": "Snakecase",
